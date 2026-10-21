@@ -2,6 +2,8 @@
 
 A complete, production-ready, mobile-first food ordering web application, WhatsApp checkout system, contactless QR table dining portal, and mobile-friendly admin control dashboard built for **Student Burgers & Shawarmas (Lahore, Pakistan)**.
 
+Fast food restaurant.
+
 ---
 
 ## 📌 Project Overview & Verified Business Information
